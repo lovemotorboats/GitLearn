@@ -65,3 +65,5 @@ Git命令大全：
 32、git push origin :refs/tags/v1.0(删除远程的标签)
 
 33、git remote rename origin github(重命名关联的远程仓库)
+
+34、（测试公钥）
